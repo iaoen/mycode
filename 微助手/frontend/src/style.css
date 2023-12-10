@@ -1,0 +1,15 @@
+html {
+    background-color: rgb(50, 50, 50);
+    text-align: center;
+    color: white;
+}
+
+body {
+    margin: 0;
+    color: white;
+}
+
+#app {
+    height: 100vh;
+    text-align: center;
+}
